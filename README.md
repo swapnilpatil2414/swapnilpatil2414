@@ -41,7 +41,7 @@ Currently, I'm working on practical full-stack projects that aim to solve everyd
 
 ### 📄 Resume
 
-[![DOWNLOAD RESUME](https://img.shields.io/badge/DOWNLOAD-RESUME-007ACC?style=for-the-badge&logoColor=white)](#)
+[![DOWNLOAD RESUME](https://img.shields.io/badge/DOWNLOAD-RESUME-007ACC?style=for-the-badge&logoColor=white)](./Swapnil_Patil_Resume.docx)
 
 ---
 
